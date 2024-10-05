@@ -1,7 +1,7 @@
 # Rightship City
 ### Details
 _Final Year Project, Prototype for MMDC 2022 (Champion Team!) (Nanyang Polytechnic - Game Development & Technology)_    
-Developed by: Tan Guan Qun (Programmer), Daevon Yap (Programmer), Naomi (Artist)
+Developed by: Tan Guan Qun (Programmer), Daevon Yap (Programmer), Naomi (Artist)     
 Timeline: 2-3 Months    
 Tech Stack: Unity Engine, C#, MySQL/PHP, Mirror Networking (Multiplayer Networking Library)
 ### Overview
